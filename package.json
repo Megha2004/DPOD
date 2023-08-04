@@ -1,0 +1,30 @@
+{
+  "name": "next-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.15",
+    "@nextui-org/react": "^0.0.0-dev-v2-20230702175730",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0",
+    "framer-motion": "^10.12.18",
+    "next": "12.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-dropdown": "^1.11.0",
+    "react-slick": "^0.29.0",
+    "reactstrap": "^9.2.0",
+    "remixicon": "^2.5.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
